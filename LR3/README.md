@@ -52,6 +52,7 @@ python main.py
 
 ```
 LR3/
+├── images               # Скриншоты с результатами
 ├── main.py              # Главный файл приложения
 ├── requirements.txt     # Зависимости проекта
 ├── README.md           # Документация
@@ -86,5 +87,5 @@ LR3/
 ## Требования
 
 - Python 3.8+
-- PyQt6 6.6.1
-- SQLite3 (встроен в Python)
+- PyQt6 6.10.0
+- SQLite3
